@@ -22,6 +22,8 @@
 👋 Hi, I’m Deepanshi Mishra, a frontend developer and learned Data Structures and Algorithm using Java. I'm interested in Full Stack Development and love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- :telescope: I’m a student and a I love exploring new fields. Currently I'm working on my React skills.
+
 - :seedling: Exploring Technical Content Writing and graphic designing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshi-mishra-a926a6296/)
